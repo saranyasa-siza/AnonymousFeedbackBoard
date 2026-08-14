@@ -7,8 +7,7 @@
 https://anonymous-feedback-board-nu.vercel.app/
 
 ## website demo video link
-https://drive.google.com/file/d/1WRBFluj0PWcfbGZfrlFsCr8LrIimUSgR/view?usp=drive_link
-
+https://drive.google.com/file/d/1nYEPrc0NMPwU4-w0qICJSQGBuQfZ3thU/view?usp=sharing
 
 A privacy-preserving feedback board built on the Midnight Network where users can submit anonymous feedback and only the original author can remove their own submission.
 
